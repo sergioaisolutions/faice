@@ -1,2 +1,1 @@
-# faice
- 
+![alt text](https://github.com/sergioaisolutions/faice/blob/main/faiceLogo.png?raw=true)
